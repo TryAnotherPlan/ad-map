@@ -1,0 +1,5852 @@
+[
+  {
+    "id": "3458764615186700596",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2102.5,
+    "y": 3343
+  },
+  {
+    "id": "3458764615186700599",
+    "name": "Швейка",
+    "desc": "",
+    "category": "sewing-machine",
+    "icon": "icons/sewing-machine.png",
+    "x": 1662,
+    "y": 4643.5
+  },
+  {
+    "id": "3458764615186700600",
+    "name": "Швейка",
+    "desc": "",
+    "category": "sewing-machine",
+    "icon": "icons/sewing-machine.png",
+    "x": 2018,
+    "y": 1733
+  },
+  {
+    "id": "3458764615186700601",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 1566.5,
+    "y": 4603.5
+  },
+  {
+    "id": "3458764615186700602",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 2442.5,
+    "y": 4146.5
+  },
+  {
+    "id": "3458764615186700603",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 2359,
+    "y": 3679
+  },
+  {
+    "id": "3458764615186700604",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 1867.5,
+    "y": 3522
+  },
+  {
+    "id": "3458764615186700605",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 2438,
+    "y": 3487
+  },
+  {
+    "id": "3458764615186700606",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 2819,
+    "y": 3473
+  },
+  {
+    "id": "3458764615186700607",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 1949,
+    "y": 3271.5
+  },
+  {
+    "id": "3458764615186700608",
+    "name": "Шахта",
+    "desc": "",
+    "category": "gold-mine",
+    "icon": "icons/gold-mine(1).png",
+    "x": 2981,
+    "y": 3328
+  },
+  {
+    "id": "3458764615186700611",
+    "name": "Шахта",
+    "desc": "",
+    "category": "gold-mine",
+    "icon": "icons/gold-mine(1).png",
+    "x": 1425.5,
+    "y": 3990.5
+  },
+  {
+    "id": "3458764615186700613",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2776.79,
+    "y": 4223.41
+  },
+  {
+    "id": "3458764615186700614",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2078.5,
+    "y": 3407.5
+  },
+  {
+    "id": "3458764615186700616",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1324,
+    "y": 3920
+  },
+  {
+    "id": "3458764615186700617",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1242,
+    "y": 3925.5
+  },
+  {
+    "id": "3458764615186700619",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2174,
+    "y": 3615
+  },
+  {
+    "id": "3458764615186700620",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2541.51,
+    "y": 2543.09
+  },
+  {
+    "id": "3458764615186700623",
+    "name": "Капитолий",
+    "desc": "",
+    "category": "free-icon-capitol",
+    "icon": "icons/free-icon-capitol-1201843.png",
+    "x": 1545,
+    "y": 2590
+  },
+  {
+    "id": "3458764615186700627",
+    "name": "Огненная аномалия",
+    "desc": "",
+    "category": "fire",
+    "icon": "icons/fire.png",
+    "x": 1726.25,
+    "y": 3642
+  },
+  {
+    "id": "3458764615186700633",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 2933.5,
+    "y": 3270.5
+  },
+  {
+    "id": "3458764615186700634",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 2940.5,
+    "y": 3252
+  },
+  {
+    "id": "3458764615186700635",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 2927,
+    "y": 3236.5
+  },
+  {
+    "id": "3458764615186700645",
+    "name": "Огненная аномалия",
+    "desc": "",
+    "category": "fire",
+    "icon": "icons/fire.png",
+    "x": 1761.75,
+    "y": 3630.5
+  },
+  {
+    "id": "3458764615186700646",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1670,
+    "y": 3383
+  },
+  {
+    "id": "3458764615186700652",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 2797,
+    "y": 4282
+  },
+  {
+    "id": "3458764615186700653",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2789,
+    "y": 4006
+  },
+  {
+    "id": "3458764615186700654",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1640.5,
+    "y": 3907
+  },
+  {
+    "id": "3458764615186700656",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1580.5,
+    "y": 3762
+  },
+  {
+    "id": "3458764615186700658",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1229.5,
+    "y": 3938.5
+  },
+  {
+    "id": "3458764615186700667",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 538,
+    "y": 2633
+  },
+  {
+    "id": "3458764615186700668",
+    "name": "Аномалия",
+    "desc": "Священное место Пути Смерти",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 907,
+    "y": 2752
+  },
+  {
+    "id": "3458764615186700669",
+    "name": "Аномалия",
+    "desc": "",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 947,
+    "y": 2941
+  },
+  {
+    "id": "3458764615186700670",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 831,
+    "y": 3128
+  },
+  {
+    "id": "3458764615186700682",
+    "name": "Руины",
+    "desc": "",
+    "category": "building",
+    "icon": "icons/building.png",
+    "x": 1561,
+    "y": 4051
+  },
+  {
+    "id": "3458764615186700683",
+    "name": "Руины",
+    "desc": "",
+    "category": "building",
+    "icon": "icons/building.png",
+    "x": 1213,
+    "y": 3699
+  },
+  {
+    "id": "3458764615186700684",
+    "name": "Руины",
+    "desc": "",
+    "category": "building",
+    "icon": "icons/building.png",
+    "x": 1677,
+    "y": 3151
+  },
+  {
+    "id": "3458764615186700685",
+    "name": "Башни",
+    "desc": "",
+    "category": "free-icon-tower",
+    "icon": "icons/free-icon-tower-1840696.png",
+    "x": 1066,
+    "y": 2969
+  },
+  {
+    "id": "3458764615186700690",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1875,
+    "y": 2460
+  },
+  {
+    "id": "3458764615186700701",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2522,
+    "y": 1826
+  },
+  {
+    "id": "3458764615186700702",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2541,
+    "y": 1839
+  },
+  {
+    "id": "3458764615186700705",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2174,
+    "y": 3210
+  },
+  {
+    "id": "3458764615186700710",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 658,
+    "y": 3366
+  },
+  {
+    "id": "3458764615186700711",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 945.75,
+    "y": 3318.75
+  },
+  {
+    "id": "3458764615186700712",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 854.5,
+    "y": 3398
+  },
+  {
+    "id": "3458764615186700717",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1768,
+    "y": 3588
+  },
+  {
+    "id": "3458764615186700718",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 1648.25,
+    "y": 3871.5
+  },
+  {
+    "id": "3458764615186700719",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 2134,
+    "y": 3885
+  },
+  {
+    "id": "3458764615186700720",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 1724.5,
+    "y": 3907.75
+  },
+  {
+    "id": "3458764615186700721",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 1639.5,
+    "y": 3761.5
+  },
+  {
+    "id": "3458764615186700722",
+    "name": "Червячки",
+    "desc": "Червячки для рыбалки",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 1646,
+    "y": 3820
+  },
+  {
+    "id": "3458764615186700723",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 1611,
+    "y": 3860
+  },
+  {
+    "id": "3458764615186700724",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 1666,
+    "y": 3622
+  },
+  {
+    "id": "3458764615186700725",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1774,
+    "y": 3230.5
+  },
+  {
+    "id": "3458764615186700736",
+    "name": "Огненная аномалия",
+    "desc": "",
+    "category": "fire",
+    "icon": "icons/fire.png",
+    "x": 2744,
+    "y": 1977
+  },
+  {
+    "id": "3458764615186700740",
+    "name": "Уголь",
+    "desc": "",
+    "category": "coal",
+    "icon": "icons/coal.png",
+    "x": 2448,
+    "y": 1267
+  },
+  {
+    "id": "3458764615186700745",
+    "name": "Башни",
+    "desc": "",
+    "category": "free-icon-tower",
+    "icon": "icons/free-icon-tower-1840696.png",
+    "x": 3023,
+    "y": 4062
+  },
+  {
+    "id": "3458764615186700754",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1668.5,
+    "y": 3578
+  },
+  {
+    "id": "3458764615186700757",
+    "name": "Аномалия",
+    "desc": "",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 2216,
+    "y": 762
+  },
+  {
+    "id": "3458764615186700758",
+    "name": "Хабы",
+    "desc": "",
+    "category": "hubs",
+    "icon": "icons/hub_monkey.png",
+    "x": 2137.38,
+    "y": 1088.38
+  },
+  {
+    "id": "3458764615186700772",
+    "name": "Шахта",
+    "desc": "",
+    "category": "gold-mine",
+    "icon": "icons/gold-mine(1).png",
+    "x": 1545,
+    "y": 4287
+  },
+  {
+    "id": "3458764615186700781",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1973.5,
+    "y": 974
+  },
+  {
+    "id": "3458764615186700784",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 2521,
+    "y": 2299
+  },
+  {
+    "id": "3458764615186700785",
+    "name": "Червячки",
+    "desc": "",
+    "category": "caterpillar",
+    "icon": "icons/caterpillar_2470081.png",
+    "x": 2480,
+    "y": 2214
+  },
+  {
+    "id": "3458764615186700794",
+    "name": "Тотемы",
+    "desc": "Тотем Совы",
+    "category": "free-icon-totem",
+    "icon": "icons/totem.png",
+    "x": 698,
+    "y": 2403
+  },
+  {
+    "id": "3458764615186700800",
+    "name": "Уголь",
+    "desc": "",
+    "category": "coal",
+    "icon": "icons/coal.png",
+    "x": 2120.5,
+    "y": 4725.5
+  },
+  {
+    "id": "3458764615525748546",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2348,
+    "y": 2789
+  },
+  {
+    "id": "3458764615583091243",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 2041,
+    "y": 2638
+  },
+  {
+    "id": "3458764615914923964",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1541,
+    "y": 4660
+  },
+  {
+    "id": "3458764616161376668",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 948,
+    "y": 3932.25
+  },
+  {
+    "id": "3458764616505859137",
+    "name": "Уголь",
+    "desc": "",
+    "category": "coal",
+    "icon": "icons/coal.png",
+    "x": 3033.5,
+    "y": 3860
+  },
+  {
+    "id": "3458764616650070667",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 1177,
+    "y": 3924
+  },
+  {
+    "id": "3458764616943757625",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 729.5,
+    "y": 3662.75
+  },
+  {
+    "id": "3458764620523760917",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2506.55,
+    "y": 2256.96
+  },
+  {
+    "id": "3458764642061607447",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 2065,
+    "y": 1189
+  },
+  {
+    "id": "3458764642083480168",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1957.5,
+    "y": 1665.5
+  },
+  {
+    "id": "3458764642083480280",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2025,
+    "y": 1587.5
+  },
+  {
+    "id": "3458764642083480535",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2229,
+    "y": 1463
+  },
+  {
+    "id": "3458764642083531260",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1662,
+    "y": 1687
+  },
+  {
+    "id": "3458764642083531306",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1606,
+    "y": 1465
+  },
+  {
+    "id": "3458764642083531602",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2221,
+    "y": 1130
+  },
+  {
+    "id": "3458764642083531666",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2426,
+    "y": 1455
+  },
+  {
+    "id": "3458764642083531754",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2712,
+    "y": 1412
+  },
+  {
+    "id": "3458764642083587056",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1848,
+    "y": 1109
+  },
+  {
+    "id": "3458764642083587126",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1425,
+    "y": 1276.5
+  },
+  {
+    "id": "3458764642083587177",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1086,
+    "y": 1720
+  },
+  {
+    "id": "3458764642083587260",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1475.82,
+    "y": 1209.01
+  },
+  {
+    "id": "3458764642083587279",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1348.17,
+    "y": 1154.97
+  },
+  {
+    "id": "3458764642083587374",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1427,
+    "y": 1682
+  },
+  {
+    "id": "3458764642083587473",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1738,
+    "y": 1695
+  },
+  {
+    "id": "3458764642083587508",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1425,
+    "y": 1537
+  },
+  {
+    "id": "3458764642083587732",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2023,
+    "y": 1868.5
+  },
+  {
+    "id": "3458764642083587791",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1436,
+    "y": 1879
+  },
+  {
+    "id": "3458764642083757601",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2671.62,
+    "y": 2267.17
+  },
+  {
+    "id": "3458764642083757738",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2612.87,
+    "y": 1993.5
+  },
+  {
+    "id": "3458764642083819929",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2277.5,
+    "y": 1875
+  },
+  {
+    "id": "3458764642083820321",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2445,
+    "y": 1413
+  },
+  {
+    "id": "3458764642083820498",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1893,
+    "y": 2506.5
+  },
+  {
+    "id": "3458764642087739375",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2044.81,
+    "y": 1390.4
+  },
+  {
+    "id": "3458764643099656892",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1333.54,
+    "y": 1301.63
+  },
+  {
+    "id": "3458764643099808255",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1914,
+    "y": 1083
+  },
+  {
+    "id": "3458764643099808914",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1315,
+    "y": 1652
+  },
+  {
+    "id": "3458764644539293555",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 1883,
+    "y": 1503
+  },
+  {
+    "id": "3458764648018691774",
+    "name": "Уголь",
+    "desc": "",
+    "category": "coal",
+    "icon": "icons/coal.png",
+    "x": 1298,
+    "y": 2521.5
+  },
+  {
+    "id": "3458764648018691913",
+    "name": "Шахта",
+    "desc": "",
+    "category": "gold-mine",
+    "icon": "icons/gold-mine(1).png",
+    "x": 874,
+    "y": 2067
+  },
+  {
+    "id": "3458764648019139664",
+    "name": "Шахта",
+    "desc": "",
+    "category": "gold-mine",
+    "icon": "icons/gold-mine(1).png",
+    "x": 2410,
+    "y": 1408
+  },
+  {
+    "id": "3458764652201849590",
+    "name": "Аномалия",
+    "desc": "Омут (затягивает)",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1834,
+    "y": 3201
+  },
+  {
+    "id": "3458764652203444606",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1297,
+    "y": 1860
+  },
+  {
+    "id": "3458764652203444850",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1448,
+    "y": 2514
+  },
+  {
+    "id": "3458764652203444911",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1853,
+    "y": 3030
+  },
+  {
+    "id": "3458764652203508079",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1641.5,
+    "y": 3352
+  },
+  {
+    "id": "3458764652203508269",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1238,
+    "y": 3216
+  },
+  {
+    "id": "3458764652203588932",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 1033,
+    "y": 3997
+  },
+  {
+    "id": "3458764652408145728",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 2508,
+    "y": 2117
+  },
+  {
+    "id": "3458764652964727918",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2599,
+    "y": 2797
+  },
+  {
+    "id": "3458764653281113785",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 954.38,
+    "y": 1859.7
+  },
+  {
+    "id": "3458764653281113890",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 870,
+    "y": 2524
+  },
+  {
+    "id": "3458764653281195105",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 728,
+    "y": 2088.2
+  },
+  {
+    "id": "3458764653281227502",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 529,
+    "y": 2898
+  },
+  {
+    "id": "3458764653281258460",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2404.97,
+    "y": 2167.89
+  },
+  {
+    "id": "3458764653281434544",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2014.49,
+    "y": 2157.27
+  },
+  {
+    "id": "3458764653281503119",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2467.68,
+    "y": 1297.14
+  },
+  {
+    "id": "3458764653281503358",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2422,
+    "y": 1083
+  },
+  {
+    "id": "3458764653281503812",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2741.28,
+    "y": 2797.79
+  },
+  {
+    "id": "3458764653281503856",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 3071.11,
+    "y": 3133.74
+  },
+  {
+    "id": "3458764653281503905",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2357.5,
+    "y": 3294
+  },
+  {
+    "id": "3458764653281576013",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1923.65,
+    "y": 3074.84
+  },
+  {
+    "id": "3458764653281781159",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 1715,
+    "y": 2816
+  },
+  {
+    "id": "3458764653661267571",
+    "name": "Кабаны",
+    "desc": "",
+    "category": "boar",
+    "icon": "icons/boar_9098892.png",
+    "x": 990,
+    "y": 2053
+  },
+  {
+    "id": "3458764656637502592",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2202,
+    "y": 2871
+  },
+  {
+    "id": "3458764657817408424",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2549.94,
+    "y": 3524.25
+  },
+  {
+    "id": "3458764657817571021",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1709.75,
+    "y": 1809.75
+  },
+  {
+    "id": "3458764657822852851",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 3093.63,
+    "y": 4422.88
+  },
+  {
+    "id": "3458764657822911298",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2712.75,
+    "y": 4005.19
+  },
+  {
+    "id": "3458764657822911377",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2658,
+    "y": 4532.5
+  },
+  {
+    "id": "3458764657822911707",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2465.44,
+    "y": 4729.69
+  },
+  {
+    "id": "3458764657822978946",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1889.88,
+    "y": 4773.5
+  },
+  {
+    "id": "3458764657822979118",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1642.25,
+    "y": 4598.13
+  },
+  {
+    "id": "3458764657822979318",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1048.13,
+    "y": 4144.38
+  },
+  {
+    "id": "3458764657822979672",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1134.75,
+    "y": 3090.25
+  },
+  {
+    "id": "3458764657822979832",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1791,
+    "y": 3027
+  },
+  {
+    "id": "3458764657823100757",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2246,
+    "y": 3890.5
+  },
+  {
+    "id": "3458764657823214978",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 3093.5,
+    "y": 4149.5
+  },
+  {
+    "id": "3458764657828963694",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1966,
+    "y": 3430
+  },
+  {
+    "id": "3458764657828963860",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2263,
+    "y": 3250
+  },
+  {
+    "id": "3458764657829055672",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1108.5,
+    "y": 3922
+  },
+  {
+    "id": "3458764657829055739",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1071,
+    "y": 3846.5
+  },
+  {
+    "id": "3458764657829055901",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 966.25,
+    "y": 3468.25
+  },
+  {
+    "id": "3458764657829153290",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 778.25,
+    "y": 3122.63
+  },
+  {
+    "id": "3458764657829153549",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1085.88,
+    "y": 2806.5
+  },
+  {
+    "id": "3458764657829153609",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1047,
+    "y": 2214
+  },
+  {
+    "id": "3458764657829316103",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1162.13,
+    "y": 1535.38
+  },
+  {
+    "id": "3458764657829316233",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2162,
+    "y": 2141
+  },
+  {
+    "id": "3458764657830193709",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 3010,
+    "y": 4604.63
+  },
+  {
+    "id": "3458764657830193805",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2569.75,
+    "y": 4622.56
+  },
+  {
+    "id": "3458764657830319957",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2286.06,
+    "y": 4453.81
+  },
+  {
+    "id": "3458764657830320147",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1573,
+    "y": 4716
+  },
+  {
+    "id": "3458764657830320338",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1508.63,
+    "y": 4525.63
+  },
+  {
+    "id": "3458764657830320483",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 478.5,
+    "y": 3485
+  },
+  {
+    "id": "3458764657841184535",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2340,
+    "y": 4701.5
+  },
+  {
+    "id": "3458764657841184860",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 438,
+    "y": 2642
+  },
+  {
+    "id": "3458764657841273280",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 657,
+    "y": 2916
+  },
+  {
+    "id": "3458764657841348221",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1647,
+    "y": 3143
+  },
+  {
+    "id": "3458764657843273364",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1606.75,
+    "y": 2127.25
+  },
+  {
+    "id": "3458764657843273615",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2248.5,
+    "y": 1681
+  },
+  {
+    "id": "3458764657845580802",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2340.19,
+    "y": 3637.56
+  },
+  {
+    "id": "3458764657847340319",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 520,
+    "y": 2445
+  },
+  {
+    "id": "3458764657847424216",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 850,
+    "y": 3272.5
+  },
+  {
+    "id": "3458764657847424816",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 1151,
+    "y": 3020
+  },
+  {
+    "id": "3458764657847490944",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 1531,
+    "y": 2785
+  },
+  {
+    "id": "3458764657847491196",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2384,
+    "y": 2111
+  },
+  {
+    "id": "3458764657847491359",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2297,
+    "y": 1687
+  },
+  {
+    "id": "3458764657847595391",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2785.5,
+    "y": 3456.5
+  },
+  {
+    "id": "3458764657847595820",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 1408.5,
+    "y": 3861
+  },
+  {
+    "id": "3458764657854044810",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2354,
+    "y": 3030
+  },
+  {
+    "id": "3458764657854149625",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 814,
+    "y": 3845.25
+  },
+  {
+    "id": "3458764657856625842",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1211.25,
+    "y": 1733.88
+  },
+  {
+    "id": "3458764657856846328",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1144,
+    "y": 3940.5
+  },
+  {
+    "id": "3458764657856846330",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2541.99,
+    "y": 2544.81
+  },
+  {
+    "id": "3458764657856846331",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1395,
+    "y": 2906
+  },
+  {
+    "id": "3458764657856846332",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 962,
+    "y": 3975.5
+  },
+  {
+    "id": "3458764657856846334",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1139,
+    "y": 2748
+  },
+  {
+    "id": "3458764657856846336",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2495,
+    "y": 3024
+  },
+  {
+    "id": "3458764657856846337",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 729.5,
+    "y": 3662.81
+  },
+  {
+    "id": "3458764657856846338",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2505.84,
+    "y": 2259.83
+  },
+  {
+    "id": "3458764657856846339",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2672.21,
+    "y": 2268.66
+  },
+  {
+    "id": "3458764657856846340",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2613.56,
+    "y": 1994.82
+  },
+  {
+    "id": "3458764657856846341",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2493.5,
+    "y": 1791.5
+  },
+  {
+    "id": "3458764657856846342",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2492.62,
+    "y": 1221.44
+  },
+  {
+    "id": "3458764657856846343",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1738.71,
+    "y": 2481.28
+  },
+  {
+    "id": "3458764657856846344",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1304.5,
+    "y": 3266
+  },
+  {
+    "id": "3458764657856846345",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2795,
+    "y": 2950
+  },
+  {
+    "id": "3458764657856846349",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2405.52,
+    "y": 2169.46
+  },
+  {
+    "id": "3458764657856846350",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2014.93,
+    "y": 2159.01
+  },
+  {
+    "id": "3458764657856846351",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2520.57,
+    "y": 1630.22
+  },
+  {
+    "id": "3458764657856846352",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2467.89,
+    "y": 1298.44
+  },
+  {
+    "id": "3458764657856846354",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 3058.88,
+    "y": 2771.99
+  },
+  {
+    "id": "3458764657856846355",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 2741.74,
+    "y": 2799.57
+  },
+  {
+    "id": "3458764657856846356",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 3071.58,
+    "y": 3135.57
+  },
+  {
+    "id": "3458764657856846358",
+    "name": "Ягодки",
+    "desc": "",
+    "category": "cranberry",
+    "icon": "icons/cranberry_13460939.png",
+    "x": 1923.88,
+    "y": 3077.02
+  },
+  {
+    "id": "3458764657856846391",
+    "name": "Аирдроп",
+    "desc": "",
+    "category": "airdrop",
+    "icon": "icons/airdrop_2070233.png",
+    "x": 2755,
+    "y": 1963
+  },
+  {
+    "id": "3458764657856846425",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2319,
+    "y": 1343
+  },
+  {
+    "id": "3458764657856846429",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1928.79,
+    "y": 1482.32
+  },
+  {
+    "id": "3458764657856846496",
+    "name": "Бункер",
+    "desc": "Бункер ДОА",
+    "category": "free-icon-bunker",
+    "icon": "icons/free-icon-bunker-2737698.png",
+    "x": 3023,
+    "y": 4323
+  },
+  {
+    "id": "3458764657856846500",
+    "name": "Уголь",
+    "desc": "",
+    "category": "coal",
+    "icon": "icons/coal(1).png",
+    "x": 1748.99,
+    "y": 2701.77
+  },
+  {
+    "id": "3458764657856846501",
+    "name": "Уголь",
+    "desc": "",
+    "category": "coal",
+    "icon": "icons/coal(1).png",
+    "x": 2809.5,
+    "y": 1962
+  },
+  {
+    "id": "3458764657856846502",
+    "name": "Уголь",
+    "desc": "",
+    "category": "coal",
+    "icon": "icons/coal(1).png",
+    "x": 1164.63,
+    "y": 3815.5
+  },
+  {
+    "id": "3458764657856846503",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1731.25,
+    "y": 5004
+  },
+  {
+    "id": "3458764657856846505",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 845,
+    "y": 3455
+  },
+  {
+    "id": "3458764657856846513",
+    "name": "Огненная аномалия",
+    "desc": "",
+    "category": "fire",
+    "icon": "icons/fire.png",
+    "x": 1758.5,
+    "y": 4791
+  },
+  {
+    "id": "3458764657856846514",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2829,
+    "y": 2798
+  },
+  {
+    "id": "3458764657856846516",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2870.5,
+    "y": 2701
+  },
+  {
+    "id": "3458764657856846518",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2811,
+    "y": 2741
+  },
+  {
+    "id": "3458764657856846522",
+    "name": "Статуя собачки",
+    "desc": "Пополнение рассудка",
+    "category": "free-icon-puppy",
+    "icon": "icons/free-icon-puppy-1959967.png",
+    "x": 1776.75,
+    "y": 1731.5
+  },
+  {
+    "id": "3458764657856846523",
+    "name": "Статуя собачки",
+    "desc": "Пополнение рассудка",
+    "category": "free-icon-puppy",
+    "icon": "icons/free-icon-puppy-1959967.png",
+    "x": 1804.63,
+    "y": 1716.69
+  },
+  {
+    "id": "3458764657856846531",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2158,
+    "y": 3118
+  },
+  {
+    "id": "3458764657856846532",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2086,
+    "y": 3084
+  },
+  {
+    "id": "3458764657856846533",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2239,
+    "y": 2903
+  },
+  {
+    "id": "3458764657856846534",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1492.72,
+    "y": 4370.11
+  },
+  {
+    "id": "3458764657856846535",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1517.56,
+    "y": 4351.47
+  },
+  {
+    "id": "3458764657856846536",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1724.5,
+    "y": 4777.5
+  },
+  {
+    "id": "3458764657856846537",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1589.5,
+    "y": 4682.5
+  },
+  {
+    "id": "3458764657856846538",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 3302.45,
+    "y": 3479
+  },
+  {
+    "id": "3458764657856846539",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 3043.01,
+    "y": 3048.3
+  },
+  {
+    "id": "3458764657856846540",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2811,
+    "y": 2754
+  },
+  {
+    "id": "3458764657856846541",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1514.75,
+    "y": 1236.65
+  },
+  {
+    "id": "3458764657856846542",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1510.09,
+    "y": 1214.74
+  },
+  {
+    "id": "3458764657856846543",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1514.36,
+    "y": 1195.56
+  },
+  {
+    "id": "3458764657856846546",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 1198,
+    "y": 3182
+  },
+  {
+    "id": "3458764657856846548",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1879,
+    "y": 4816.5
+  },
+  {
+    "id": "3458764657856846549",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1887.5,
+    "y": 4782.5
+  },
+  {
+    "id": "3458764657856846550",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1887,
+    "y": 4761.5
+  },
+  {
+    "id": "3458764657856846551",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 831,
+    "y": 3272
+  },
+  {
+    "id": "3458764657856846552",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 880,
+    "y": 3266
+  },
+  {
+    "id": "3458764657856846554",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1284,
+    "y": 3286
+  },
+  {
+    "id": "3458764657856846557",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2353,
+    "y": 3002
+  },
+  {
+    "id": "3458764657856846558",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2345,
+    "y": 2829
+  },
+  {
+    "id": "3458764657856846559",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2220,
+    "y": 2886
+  },
+  {
+    "id": "3458764657856846562",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2753,
+    "y": 4016
+  },
+  {
+    "id": "3458764657856846563",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2771,
+    "y": 4033
+  },
+  {
+    "id": "3458764657856846574",
+    "name": "Кролики",
+    "desc": "",
+    "category": "rabbit",
+    "icon": "icons/rabbit_523493.png",
+    "x": 2273,
+    "y": 2628
+  },
+  {
+    "id": "3458764657856846577",
+    "name": "Алтарь Белолапых",
+    "desc": "Священное место стаи Белолапых",
+    "category": "bull-skull",
+    "icon": "icons/bull-skull.png",
+    "x": 2179,
+    "y": 4580
+  },
+  {
+    "id": "3458764657856846579",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2125,
+    "y": 3208.5
+  },
+  {
+    "id": "3458764657856846580",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1962.5,
+    "y": 3263.5
+  },
+  {
+    "id": "3458764657856846581",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1980.5,
+    "y": 3256
+  },
+  {
+    "id": "3458764657856846582",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2846.13,
+    "y": 3344.75
+  },
+  {
+    "id": "3458764657856846583",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2990.77,
+    "y": 3317.46
+  },
+  {
+    "id": "3458764657856846584",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2982.21,
+    "y": 3271.42
+  },
+  {
+    "id": "3458764657856846585",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 3197.2,
+    "y": 3498.55
+  },
+  {
+    "id": "3458764657856846586",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 3187.89,
+    "y": 3479.7
+  },
+  {
+    "id": "3458764657856846587",
+    "name": "Статуя собачки",
+    "desc": "Пополнение рассудка",
+    "category": "free-icon-puppy",
+    "icon": "icons/free-icon-puppy-1959967.png",
+    "x": 1806.88,
+    "y": 1864.69
+  },
+  {
+    "id": "3458764657856846593",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1766.68,
+    "y": 1532.59
+  },
+  {
+    "id": "3458764657856846594",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1789.49,
+    "y": 1564.17
+  },
+  {
+    "id": "3458764657856846595",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1706.02,
+    "y": 1332.75
+  },
+  {
+    "id": "3458764657856846596",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1685.75,
+    "y": 1307.51
+  },
+  {
+    "id": "3458764657856846597",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1680,
+    "y": 1277.6
+  },
+  {
+    "id": "3458764657856846598",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2033.3,
+    "y": 1293.79
+  },
+  {
+    "id": "3458764657856846599",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 2729,
+    "y": 4281
+  },
+  {
+    "id": "3458764657856846600",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 2706,
+    "y": 4305
+  },
+  {
+    "id": "3458764657856846601",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 2721,
+    "y": 4296
+  },
+  {
+    "id": "3458764657856846604",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 955,
+    "y": 3318
+  },
+  {
+    "id": "3458764657856846606",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 937,
+    "y": 3346
+  },
+  {
+    "id": "3458764657856846613",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1318.01,
+    "y": 970.25
+  },
+  {
+    "id": "3458764657856846614",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1276.81,
+    "y": 908.78
+  },
+  {
+    "id": "3458764657856846615",
+    "name": "Статуя собачки",
+    "desc": "Пополнение рассудка",
+    "category": "free-icon-puppy",
+    "icon": "icons/free-icon-puppy-1959967.png",
+    "x": 1401.92,
+    "y": 1263.29
+  },
+  {
+    "id": "3458764657856846618",
+    "name": "Уголь",
+    "desc": "",
+    "category": "coal",
+    "icon": "icons/coal(1).png",
+    "x": 2370,
+    "y": 2113
+  },
+  {
+    "id": "3458764657856846619",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 1602,
+    "y": 3657
+  },
+  {
+    "id": "3458764657856846620",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 1755,
+    "y": 4944.5
+  },
+  {
+    "id": "3458764657856846622",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 1798.75,
+    "y": 4947.25
+  },
+  {
+    "id": "3458764657856846625",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 892,
+    "y": 3409
+  },
+  {
+    "id": "3458764657856846632",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1739,
+    "y": 3256.5
+  },
+  {
+    "id": "3458764657856846634",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1828,
+    "y": 3182
+  },
+  {
+    "id": "3458764657856846636",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2536,
+    "y": 3662
+  },
+  {
+    "id": "3458764657856846638",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2210.5,
+    "y": 3210
+  },
+  {
+    "id": "3458764657856846641",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1986.5,
+    "y": 3304
+  },
+  {
+    "id": "3458764657856846654",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1815.5,
+    "y": 3389.5
+  },
+  {
+    "id": "3458764657856846655",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2685.62,
+    "y": 3557.11
+  },
+  {
+    "id": "3458764657856846656",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2442,
+    "y": 3484
+  },
+  {
+    "id": "3458764657856846659",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2819,
+    "y": 3453
+  },
+  {
+    "id": "3458764657856846665",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2458,
+    "y": 2879
+  },
+  {
+    "id": "3458764657856846670",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 2283,
+    "y": 2792
+  },
+  {
+    "id": "3458764657856846672",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 2148.5,
+    "y": 3863
+  },
+  {
+    "id": "3458764657856846673",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2542.24,
+    "y": 2573.17
+  },
+  {
+    "id": "3458764657856846675",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 2310,
+    "y": 2739
+  },
+  {
+    "id": "3458764657856846678",
+    "name": "Кора",
+    "desc": "Осторожно, гнильцы!",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 1855,
+    "y": 2453
+  },
+  {
+    "id": "3458764657856846685",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1038,
+    "y": 3989.5
+  },
+  {
+    "id": "3458764657856846687",
+    "name": "Кролики",
+    "desc": "",
+    "category": "rabbit",
+    "icon": "icons/rabbit_523493.png",
+    "x": 2748,
+    "y": 2555
+  },
+  {
+    "id": "3458764657856846689",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2482,
+    "y": 2905
+  },
+  {
+    "id": "3458764657856846694",
+    "name": "Пещера Исмира",
+    "desc": "",
+    "category": "free-icon-bear",
+    "icon": "icons/free-icon-bear-7506864.png",
+    "x": 1473,
+    "y": 2978
+  },
+  {
+    "id": "3458764657856846699",
+    "name": "Тотемы",
+    "desc": "Тотем Оленя",
+    "category": "free-icon-totem",
+    "icon": "icons/green-totem.png",
+    "x": 873,
+    "y": 3888
+  },
+  {
+    "id": "3458764657856846701",
+    "name": "Тотемы",
+    "desc": "Тотем Бизона",
+    "category": "free-icon-totem",
+    "icon": "icons/totem.png",
+    "x": 1594,
+    "y": 3503
+  },
+  {
+    "id": "3458764657856846704",
+    "name": "Тотемы",
+    "desc": "Тотем Кабана",
+    "category": "free-icon-totem",
+    "icon": "icons/totem.png",
+    "x": 2004,
+    "y": 4691
+  },
+  {
+    "id": "3458764657856846708",
+    "name": "Тотемы",
+    "desc": "Тотем Волка",
+    "category": "free-icon-totem",
+    "icon": "icons/totem.png",
+    "x": 2560,
+    "y": 4331
+  },
+  {
+    "id": "3458764657856846711",
+    "name": "Тотемы",
+    "desc": "Тотем Пантеры",
+    "category": "free-icon-totem",
+    "icon": "icons/totem.png",
+    "x": 3008,
+    "y": 3416
+  },
+  {
+    "id": "3458764657856846714",
+    "name": "Тотемы",
+    "desc": "Тотем Котика",
+    "category": "free-icon-totem",
+    "icon": "icons/green-totem.png",
+    "x": 2377,
+    "y": 2321
+  },
+  {
+    "id": "3458764657856846720",
+    "name": "Тотемы",
+    "desc": "Тотем Лисы",
+    "category": "free-icon-totem",
+    "icon": "icons/totem.png",
+    "x": 2496.5,
+    "y": 1152
+  },
+  {
+    "id": "3458764657856846722",
+    "name": "Доска объявлений",
+    "desc": "",
+    "category": "corkboard",
+    "icon": "icons/corkboard.png",
+    "x": 1561,
+    "y": 2606
+  },
+  {
+    "id": "3458764657856846725",
+    "name": "Литейка",
+    "desc": "",
+    "category": "gold-ingots",
+    "icon": "icons/gold-ingots.png",
+    "x": 2565,
+    "y": 4191
+  },
+  {
+    "id": "3458764657856846728",
+    "name": "Литейка",
+    "desc": "",
+    "category": "gold-ingots",
+    "icon": "icons/gold-ingots.png",
+    "x": 2165,
+    "y": 1304
+  },
+  {
+    "id": "3458764657856846730",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 1335,
+    "y": 2830
+  },
+  {
+    "id": "3458764657856846732",
+    "name": "Статуя собачки",
+    "desc": "Пополнение рассудка",
+    "category": "free-icon-puppy",
+    "icon": "icons/free-icon-puppy-1959967.png",
+    "x": 2334,
+    "y": 3276.5
+  },
+  {
+    "id": "3458764657856846740",
+    "name": "Аномалия телепорт",
+    "desc": "",
+    "category": "teleport",
+    "icon": "icons/teleport.png",
+    "x": 2023,
+    "y": 871
+  },
+  {
+    "id": "3458764657856846742",
+    "name": "Аномалия телепорт",
+    "desc": "",
+    "category": "teleport",
+    "icon": "icons/teleport.png",
+    "x": 2586,
+    "y": 2456
+  },
+  {
+    "id": "3458764657856846744",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1552.84,
+    "y": 1114.44
+  },
+  {
+    "id": "3458764657856846746",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1693.36,
+    "y": 1442.41
+  },
+  {
+    "id": "3458764657856846749",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2213,
+    "y": 858
+  },
+  {
+    "id": "3458764657856846750",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2239,
+    "y": 776.5
+  },
+  {
+    "id": "3458764657856846751",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2238.5,
+    "y": 791.5
+  },
+  {
+    "id": "3458764657856846753",
+    "name": "Аномалия телепорт",
+    "desc": "",
+    "category": "teleport",
+    "icon": "icons/teleport.png",
+    "x": 642.06,
+    "y": 3231.13
+  },
+  {
+    "id": "3458764657856846754",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1703.38,
+    "y": 903.46
+  },
+  {
+    "id": "3458764657856846755",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1787.66,
+    "y": 938.26
+  },
+  {
+    "id": "3458764657856846757",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1798.94,
+    "y": 866.45
+  },
+  {
+    "id": "3458764657856846758",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1735.25,
+    "y": 844.52
+  },
+  {
+    "id": "3458764657856846760",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1652.1,
+    "y": 769.71
+  },
+  {
+    "id": "3458764657856846761",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1626.45,
+    "y": 746.38
+  },
+  {
+    "id": "3458764657856846762",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1559.89,
+    "y": 662.89
+  },
+  {
+    "id": "3458764657856846763",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1596.96,
+    "y": 669.47
+  },
+  {
+    "id": "3458764657856846764",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1684.34,
+    "y": 751.77
+  },
+  {
+    "id": "3458764657856846766",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1735.95,
+    "y": 748.62
+  },
+  {
+    "id": "3458764657856846767",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1810,
+    "y": 804.5
+  },
+  {
+    "id": "3458764657856846768",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2140,
+    "y": 822.5
+  },
+  {
+    "id": "3458764657856846771",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2147,
+    "y": 2966
+  },
+  {
+    "id": "3458764657856846772",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2110,
+    "y": 3881
+  },
+  {
+    "id": "3458764657856846774",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1364,
+    "y": 4571
+  },
+  {
+    "id": "3458764657856846777",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1930,
+    "y": 908
+  },
+  {
+    "id": "3458764657856846781",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2114.48,
+    "y": 1020.48
+  },
+  {
+    "id": "3458764657856846782",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2072.8,
+    "y": 1047.9
+  },
+  {
+    "id": "3458764657856846783",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2078.58,
+    "y": 1423.44
+  },
+  {
+    "id": "3458764657856846784",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1945.12,
+    "y": 1465.67
+  },
+  {
+    "id": "3458764657856846787",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1906.18,
+    "y": 1476.8
+  },
+  {
+    "id": "3458764657856846789",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1858.61,
+    "y": 1466.45
+  },
+  {
+    "id": "3458764657856846791",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1736.58,
+    "y": 1579.39
+  },
+  {
+    "id": "3458764657856846795",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2072.22,
+    "y": 1002.33
+  },
+  {
+    "id": "3458764657856846798",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 2355,
+    "y": 1038.5
+  },
+  {
+    "id": "3458764657856846800",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 2557.5,
+    "y": 2192
+  },
+  {
+    "id": "3458764657856846803",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2432,
+    "y": 4738
+  },
+  {
+    "id": "3458764657856846805",
+    "name": "Аномалия телепорт",
+    "desc": "",
+    "category": "teleport",
+    "icon": "icons/teleport.png",
+    "x": 1717,
+    "y": 5146
+  },
+  {
+    "id": "3458764657856846807",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 1731,
+    "y": 4945
+  },
+  {
+    "id": "3458764657856846809",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 691,
+    "y": 3237.5
+  },
+  {
+    "id": "3458764657856846818",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1855,
+    "y": 4817
+  },
+  {
+    "id": "3458764657856846822",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 726,
+    "y": 3149
+  },
+  {
+    "id": "3458764657856846828",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1201.02,
+    "y": 1018.25
+  },
+  {
+    "id": "3458764657856846830",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2849,
+    "y": 3842
+  },
+  {
+    "id": "3458764657856846848",
+    "name": "Аирдроп",
+    "desc": "",
+    "category": "airdrop",
+    "icon": "icons/airdrop_2070233.png",
+    "x": 3026.71,
+    "y": 3323.52
+  },
+  {
+    "id": "3458764657856846849",
+    "name": "Огненная аномалия",
+    "desc": "",
+    "category": "fire",
+    "icon": "icons/fire.png",
+    "x": 1747.25,
+    "y": 4781.75
+  },
+  {
+    "id": "3458764657856846850",
+    "name": "Огненная аномалия",
+    "desc": "",
+    "category": "fire",
+    "icon": "icons/fire.png",
+    "x": 1744.5,
+    "y": 4797
+  },
+  {
+    "id": "3458764657856846852",
+    "name": "Огненная аномалия",
+    "desc": "",
+    "category": "fire",
+    "icon": "icons/fire.png",
+    "x": 1735.5,
+    "y": 3617.5
+  },
+  {
+    "id": "3458764657856846854",
+    "name": "Огненная аномалия",
+    "desc": "",
+    "category": "fire",
+    "icon": "icons/fire.png",
+    "x": 2721,
+    "y": 1964
+  },
+  {
+    "id": "3458764657856846856",
+    "name": "Доска объявлений",
+    "desc": "",
+    "category": "corkboard",
+    "icon": "icons/corkboard.png",
+    "x": 2125,
+    "y": 1102.5
+  },
+  {
+    "id": "3458764657856846863",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 2481,
+    "y": 1313
+  },
+  {
+    "id": "3458764657856846865",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 3230.41,
+    "y": 3286.75
+  },
+  {
+    "id": "3458764657856846869",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 536.25,
+    "y": 3642.75
+  },
+  {
+    "id": "3458764657856846871",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 1258,
+    "y": 4493
+  },
+  {
+    "id": "3458764657856846873",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 1325,
+    "y": 4808
+  },
+  {
+    "id": "3458764657856846875",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 1917,
+    "y": 5042
+  },
+  {
+    "id": "3458764657856846877",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 2291,
+    "y": 4903
+  },
+  {
+    "id": "3458764657856846879",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 3262.03,
+    "y": 4662.75
+  },
+  {
+    "id": "3458764657856846881",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 3383.08,
+    "y": 3615.48
+  },
+  {
+    "id": "3458764657856846883",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 3024,
+    "y": 2683
+  },
+  {
+    "id": "3458764657856846885",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 3014.91,
+    "y": 1975.17
+  },
+  {
+    "id": "3458764657856846887",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 2936,
+    "y": 1437
+  },
+  {
+    "id": "3458764657856846889",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 1830.5,
+    "y": 730.5
+  },
+  {
+    "id": "3458764657856846891",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 1795,
+    "y": 1180
+  },
+  {
+    "id": "3458764657856846895",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 1896,
+    "y": 3696
+  },
+  {
+    "id": "3458764657856846897",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 2344,
+    "y": 3805
+  },
+  {
+    "id": "3458764657856846899",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 2921,
+    "y": 4247
+  },
+  {
+    "id": "3458764657856846908",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 807,
+    "y": 2221
+  },
+  {
+    "id": "3458764657856846910",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 996,
+    "y": 3381
+  },
+  {
+    "id": "3458764657856846912",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 3277,
+    "y": 3943
+  },
+  {
+    "id": "3458764657856846914",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 1788.51,
+    "y": 1548.89
+  },
+  {
+    "id": "3458764657856846916",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 1998,
+    "y": 2649
+  },
+  {
+    "id": "3458764657856846922",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 2118,
+    "y": 901.5
+  },
+  {
+    "id": "3458764657856846925",
+    "name": "Доска объявлений",
+    "desc": "",
+    "category": "corkboard",
+    "icon": "icons/corkboard.png",
+    "x": 1837.5,
+    "y": 4813.5
+  },
+  {
+    "id": "3458764657856846927",
+    "name": "Доска объявлений",
+    "desc": "",
+    "category": "corkboard",
+    "icon": "icons/corkboard.png",
+    "x": 2486,
+    "y": 3437
+  },
+  {
+    "id": "3458764657856881945",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 2700,
+    "y": 3385
+  },
+  {
+    "id": "3458764657856881950",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 2424,
+    "y": 3183
+  },
+  {
+    "id": "3458764657856881961",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 2179,
+    "y": 2981
+  },
+  {
+    "id": "3458764657856881962",
+    "name": "Кора",
+    "desc": "",
+    "category": "free-icon-stump",
+    "icon": "icons/free-icon-stump-928799.png",
+    "x": 848,
+    "y": 2088
+  },
+  {
+    "id": "3458764657856881963",
+    "name": "Кролики",
+    "desc": "",
+    "category": "rabbit",
+    "icon": "icons/rabbit_523493.png",
+    "x": 1201,
+    "y": 2144
+  },
+  {
+    "id": "3458764657856881967",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 2110.5,
+    "y": 804.5
+  },
+  {
+    "id": "3458764657856881971",
+    "name": "Патроны",
+    "desc": "",
+    "category": "free-icon-ammo",
+    "icon": "icons/free-icon-ammo-3836821.png",
+    "x": 1396.03,
+    "y": 553.6
+  },
+  {
+    "id": "3458764657856881983",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 1674,
+    "y": 2907
+  },
+  {
+    "id": "3458764657856881985",
+    "name": "Доска объявлений",
+    "desc": "",
+    "category": "corkboard",
+    "icon": "icons/corkboard.png",
+    "x": 2717,
+    "y": 4004
+  },
+  {
+    "id": "3458764657856881986",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2118.5,
+    "y": 3217
+  },
+  {
+    "id": "3458764657856881991",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 902.5,
+    "y": 1694.5
+  },
+  {
+    "id": "3458764657856950740",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1145.5,
+    "y": 2962.25
+  },
+  {
+    "id": "3458764657857007874",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2192.13,
+    "y": 3202.88
+  },
+  {
+    "id": "3458764657857098039",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2736,
+    "y": 3633.5
+  },
+  {
+    "id": "3458764657862506887",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 979.88,
+    "y": 3499.81
+  },
+  {
+    "id": "3458764657914005765",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2936.5,
+    "y": 3671.5
+  },
+  {
+    "id": "3458764658009063641",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 1062,
+    "y": 2051
+  },
+  {
+    "id": "3458764658009063856",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 1604,
+    "y": 2205
+  },
+  {
+    "id": "3458764658009295468",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2788,
+    "y": 2814
+  },
+  {
+    "id": "3458764658047710179",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1745,
+    "y": 4838
+  },
+  {
+    "id": "3458764658047710765",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1437,
+    "y": 4475
+  },
+  {
+    "id": "3458764658047781179",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2601.19,
+    "y": 3480.31
+  },
+  {
+    "id": "3458764658047781559",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1631.88,
+    "y": 3701.5
+  },
+  {
+    "id": "3458764658047916994",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1551.5,
+    "y": 3306.5
+  },
+  {
+    "id": "3458764658196015869",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 1330,
+    "y": 1300
+  },
+  {
+    "id": "3458764658196193009",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2199.5,
+    "y": 1073
+  },
+  {
+    "id": "3458764658201336234",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 1696,
+    "y": 2927
+  },
+  {
+    "id": "3458764658539906212",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2732.5,
+    "y": 4726.5
+  },
+  {
+    "id": "3458764658745755911",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 1593,
+    "y": 1577
+  },
+  {
+    "id": "3458764658746163397",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2372.38,
+    "y": 1474.13
+  },
+  {
+    "id": "3458764658746251362",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 2407,
+    "y": 1353
+  },
+  {
+    "id": "3458764658746451909",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1517,
+    "y": 1536
+  },
+  {
+    "id": "3458764658746502053",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1800,
+    "y": 1221
+  },
+  {
+    "id": "3458764658746502191",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1706,
+    "y": 1515
+  },
+  {
+    "id": "3458764658746572763",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1139,
+    "y": 1900
+  },
+  {
+    "id": "3458764658746572912",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 933,
+    "y": 1991
+  },
+  {
+    "id": "3458764658746651050",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 821,
+    "y": 1972
+  },
+  {
+    "id": "3458764658746651510",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1610,
+    "y": 2142
+  },
+  {
+    "id": "3458764658746651923",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1761,
+    "y": 1851
+  },
+  {
+    "id": "3458764658746700294",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 2285.5,
+    "y": 1893
+  },
+  {
+    "id": "3458764658746700851",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1788,
+    "y": 2618
+  },
+  {
+    "id": "3458764658746756347",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1976,
+    "y": 2404
+  },
+  {
+    "id": "3458764658746756598",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1384,
+    "y": 2319
+  },
+  {
+    "id": "3458764658746756895",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 817,
+    "y": 3136
+  },
+  {
+    "id": "3458764658746809276",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1488,
+    "y": 3302
+  },
+  {
+    "id": "3458764658746809736",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 2167.32,
+    "y": 3520.89
+  },
+  {
+    "id": "3458764658747036806",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1713,
+    "y": 4812
+  },
+  {
+    "id": "3458764658770167309",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2067.5,
+    "y": 3833
+  },
+  {
+    "id": "3458764658770167391",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 2171,
+    "y": 4665
+  },
+  {
+    "id": "3458764658770231326",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2916.13,
+    "y": 3868.38
+  },
+  {
+    "id": "3458764658770231602",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1084,
+    "y": 2726.5
+  },
+  {
+    "id": "3458764658770310700",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1396,
+    "y": 1741
+  },
+  {
+    "id": "3458764658770310810",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1348,
+    "y": 1359
+  },
+  {
+    "id": "3458764658770617625",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2809.25,
+    "y": 3555.69
+  },
+  {
+    "id": "3458764658770617691",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2413,
+    "y": 3415.5
+  },
+  {
+    "id": "3458764658770931972",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1265,
+    "y": 1638
+  },
+  {
+    "id": "3458764658770932274",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1656.89,
+    "y": 1656.39
+  },
+  {
+    "id": "f1067c80-d9e4-4203-8ce0-2a629546aee0",
+    "name": "Аномалия",
+    "desc": "Звёздочки",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1649.88,
+    "y": 3853.75
+  },
+  {
+    "id": "5cf784ca-f11e-4ba8-a649-f8afb492a62b",
+    "name": "Руины",
+    "desc": "Алтарь Стези Жизни",
+    "category": "building",
+    "icon": "icons/building.png",
+    "x": 1343,
+    "y": 4626
+  },
+  {
+    "id": "6ce6a3f3-7f11-4041-acf6-48f874d51e9f",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 2406,
+    "y": 4750
+  },
+  {
+    "id": "52000be6-1251-48e1-b3e1-7cc00237c45b",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2341,
+    "y": 3592
+  },
+  {
+    "id": "be05ba6a-a10a-41f5-8ebf-03423d096ceb",
+    "name": "Аномалия",
+    "desc": "Омут (затягивает)",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1773,
+    "y": 3516
+  },
+  {
+    "id": "cc7524c6-c49a-4f40-b35a-44a06d98f7f4",
+    "name": "Аномалия",
+    "desc": "Звёздочки",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1506,
+    "y": 3932
+  },
+  {
+    "id": "6c880a7d-b802-4afb-95e2-865c60c96284",
+    "name": "Аномалия",
+    "desc": "Омут (Затягивает)",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1047,
+    "y": 2540
+  },
+  {
+    "id": "1cb42bf7-c44a-4438-83ef-1bb068bebc6d",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 787,
+    "y": 3225
+  },
+  {
+    "id": "07036b95-957d-4a8d-99ef-7c7e5eb4b7dc",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 676.5,
+    "y": 3250.5
+  },
+  {
+    "id": "4c73898d-269a-4c5b-a0f0-2143fa552a9b",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 704.5,
+    "y": 3222.5
+  },
+  {
+    "id": "cf046069-f265-48c9-867d-fdc93aca4cd1",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 851.5,
+    "y": 3158
+  },
+  {
+    "id": "95f77217-fc23-4c40-83db-20ac872f92bd",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 893,
+    "y": 3176.5
+  },
+  {
+    "id": "6d4ec60d-7b39-4531-8cdb-44cf1278420b",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 917.5,
+    "y": 3178.5
+  },
+  {
+    "id": "efb80d4b-ce92-4ac8-90b8-1e2960fbe2ee",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1004,
+    "y": 3206.5
+  },
+  {
+    "id": "853f86f6-f12f-4e7a-b264-68fba680dca9",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1002,
+    "y": 3229
+  },
+  {
+    "id": "ef551f7f-96e4-4a96-9664-ded4e3d324f5",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1022,
+    "y": 3233
+  },
+  {
+    "id": "d7c79529-823e-4fe6-b4d5-7ed47033c15a",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1059.5,
+    "y": 3174.5
+  },
+  {
+    "id": "624a743b-37b8-46fb-a98e-b8b7da695149",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 865.5,
+    "y": 3237.5
+  },
+  {
+    "id": "d93d0d49-dd2d-4ef6-9f36-caf32ffea4cf",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 880,
+    "y": 3216
+  },
+  {
+    "id": "13ea7606-7b9f-4fb7-a7e5-3bcf60bbbeab",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 855.5,
+    "y": 3221
+  },
+  {
+    "id": "a37bf0c4-eab1-48ff-a8f0-8694ae52bbad",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1428,
+    "y": 4302
+  },
+  {
+    "id": "0dbf1fb2-ded4-4683-b285-d697f15eaa4b",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1482,
+    "y": 4377.5
+  },
+  {
+    "id": "c29079c0-2c23-4811-8640-df16d3a5c8b9",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1802.5,
+    "y": 4706.5
+  },
+  {
+    "id": "a14e0109-c379-42b7-be5b-461c37c80466",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1742.5,
+    "y": 4935.5
+  },
+  {
+    "id": "7ac7163d-79b8-4768-8625-512f63474594",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1784.5,
+    "y": 4962.5
+  },
+  {
+    "id": "cfe82cad-ba13-4b11-9373-376653541ac3",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2282,
+    "y": 4799.5
+  },
+  {
+    "id": "35e291a8-59e3-44fc-ac48-8dc19fe26abf",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2762,
+    "y": 4650.5
+  },
+  {
+    "id": "eb17b09f-0224-4790-924a-a2578b55e070",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2859.5,
+    "y": 4563.5
+  },
+  {
+    "id": "d892934a-e078-401b-a7b9-6f679b446de7",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2901.5,
+    "y": 4031
+  },
+  {
+    "id": "5e2dc2e8-3610-44ee-9eb4-ccf1f2a7d571",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1912.5,
+    "y": 3842.5
+  },
+  {
+    "id": "8a3b3064-f81c-4b52-9b3a-8beb33ac5486",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1604,
+    "y": 3021.5
+  },
+  {
+    "id": "73c84ad5-f841-48f6-8cc0-f2b6ac02efd2",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1111,
+    "y": 2463
+  },
+  {
+    "id": "5c49171f-d3f7-4bbd-86da-dcede70e1a42",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1395.5,
+    "y": 2501.5
+  },
+  {
+    "id": "90a17dfd-2a72-4767-be2e-745f7fa38e6c",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 835.5,
+    "y": 2218
+  },
+  {
+    "id": "f8c829b6-28be-4728-9316-8c2094ad75f1",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 999,
+    "y": 2082.5
+  },
+  {
+    "id": "757b27fe-63c5-4108-ba5f-bbdd4533439d",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1279,
+    "y": 1840
+  },
+  {
+    "id": "055347f2-e4ab-46bf-9bda-9d5abdde12f6",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1334,
+    "y": 1873.5
+  },
+  {
+    "id": "1403f135-efae-430f-84e4-9f2a136d4117",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1482,
+    "y": 1573.5
+  },
+  {
+    "id": "6af177d1-1b10-49c3-9f0e-dd47e9dc0f0b",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1364.5,
+    "y": 1369.5
+  },
+  {
+    "id": "bd8d3e86-fc12-4312-99e4-b5fdb3ce9be4",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1850,
+    "y": 1276.5
+  },
+  {
+    "id": "b692614d-5975-4352-be6e-8d2179dae56c",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2005,
+    "y": 1103.5
+  },
+  {
+    "id": "73f0fb53-9c43-4458-9000-832ea7113306",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2161.5,
+    "y": 1052.5
+  },
+  {
+    "id": "4af693f2-0efd-4cea-9df7-a3ccf1469f7a",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2424.5,
+    "y": 1087.5
+  },
+  {
+    "id": "06ae2660-ee10-465f-985b-07d994fc4375",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1518.75,
+    "y": 2032.79
+  },
+  {
+    "id": "7fa40973-c695-4917-8394-b7717f3a8b58",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1245.75,
+    "y": 2159.79
+  },
+  {
+    "id": "78e8eeb8-6404-47db-a9bf-7dcdb578a751",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1247.25,
+    "y": 2108.79
+  },
+  {
+    "id": "d338f95f-368f-472f-b91a-f5cbeab6b555",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2667,
+    "y": 1655
+  },
+  {
+    "id": "785f38fd-7a9c-4399-839b-31d6cff947d3",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2421,
+    "y": 1729.5
+  },
+  {
+    "id": "e1a81ca7-5ce5-46b5-b06b-b2b2b509e667",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2425.5,
+    "y": 2089
+  },
+  {
+    "id": "d618fb44-c21f-42f2-b8b7-fd3270fe256d",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2522,
+    "y": 2101.5
+  },
+  {
+    "id": "4c19b420-fdb2-4638-8ed4-8358689c393c",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2615.5,
+    "y": 2185
+  },
+  {
+    "id": "cb87cede-1c3c-40df-acb8-2a2022a4c8af",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2701,
+    "y": 2270.5
+  },
+  {
+    "id": "7be436fd-f43a-4bc9-b4c5-c552cea13fbb",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2631.5,
+    "y": 2494.5
+  },
+  {
+    "id": "2f659d1b-2647-4eac-a413-7914eed10e48",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2386,
+    "y": 2956.5
+  },
+  {
+    "id": "ec1a5e3e-1678-4268-9f65-96a64c7d6f7a",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 2648,
+    "y": 3081.5
+  },
+  {
+    "id": "de8326de-6b6a-4aac-8bc8-0c16e315e3cf",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 3141,
+    "y": 3180.5
+  },
+  {
+    "id": "58a8fc44-b3b4-4a96-8b5f-99e1aaf3d94a",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 906.5,
+    "y": 3989
+  },
+  {
+    "id": "af43b14d-a82e-469e-8f3b-e2cdf02269e0",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1093.5,
+    "y": 3938.5
+  },
+  {
+    "id": "6657757d-6af6-49c7-a1ee-8eb66eccdb9c",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1318.5,
+    "y": 3913.5
+  },
+  {
+    "id": "58d9f33f-2e6c-4f24-98ac-ec7835673b41",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1508,
+    "y": 3806.5
+  },
+  {
+    "id": "09cb4666-402e-4850-9dfa-424c83ac21f3",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1573,
+    "y": 3890
+  },
+  {
+    "id": "29672dbc-8e9a-4c45-b565-39fd93ae411a",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1854.5,
+    "y": 3888.5
+  },
+  {
+    "id": "72600b7c-3ef5-4cd9-9239-4569c585afda",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2130,
+    "y": 3898
+  },
+  {
+    "id": "87aef732-0594-4487-9fbb-dfc86ef4cf48",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2492,
+    "y": 4079
+  },
+  {
+    "id": "9549ce3e-ec1d-43f5-a730-85207c27f4e5",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2904,
+    "y": 4017
+  },
+  {
+    "id": "bb68e61c-5c2a-4bdd-92b5-ec4a9f911354",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2815,
+    "y": 4196.5
+  },
+  {
+    "id": "b04fcff9-fca0-4b1e-b408-3219c0ff110d",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 3064,
+    "y": 4240
+  },
+  {
+    "id": "e7f26ba9-55f2-408a-a4df-85c62a622bb5",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2989,
+    "y": 4584.5
+  },
+  {
+    "id": "f3cb4779-ca5c-48e5-8d0a-12bdaddf6d6f",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2337.5,
+    "y": 4692
+  },
+  {
+    "id": "9bf2a8c5-3e73-4e54-a2a1-91c906631a87",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2182,
+    "y": 4799.5
+  },
+  {
+    "id": "618f58b8-3e99-4ae2-9564-4ccd3843224e",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1955.5,
+    "y": 4766.5
+  },
+  {
+    "id": "7aef1252-1075-4d0f-a23e-d007599f4b1a",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1704.5,
+    "y": 4809.5
+  },
+  {
+    "id": "f2c8c193-5eeb-4d99-8e2e-818d0c9c79ac",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1453.5,
+    "y": 4565.5
+  },
+  {
+    "id": "b01cf399-7593-4d7f-9d14-655555155b05",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1412,
+    "y": 4412
+  },
+  {
+    "id": "c7133420-e608-4961-87e2-7ec7535bf520",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1420,
+    "y": 4448.5
+  },
+  {
+    "id": "487ffc0d-65a5-466d-8a4e-018f2dede2fe",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1133.5,
+    "y": 4328
+  },
+  {
+    "id": "ffdbbc12-8f14-49d0-8864-f31c8ca2e0cb",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1583.5,
+    "y": 3684.5
+  },
+  {
+    "id": "5219c885-cc2e-42f8-a157-15a8b98f44a3",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1779,
+    "y": 3453
+  },
+  {
+    "id": "dbef1c1d-e4ce-4b6e-82dd-a2085c7acce1",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1695.5,
+    "y": 3299.5
+  },
+  {
+    "id": "af31cd99-a869-4db0-b4df-792ad899c6e5",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1474,
+    "y": 3270
+  },
+  {
+    "id": "90547eb1-318a-4328-9503-10890c71da6d",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1432.5,
+    "y": 3251.5
+  },
+  {
+    "id": "942ea613-7538-4785-98d2-6648efc3d2ec",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1886.5,
+    "y": 3200
+  },
+  {
+    "id": "7db4c158-ae43-4f64-b0b8-cc0d5a54e97b",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2048,
+    "y": 3166.5
+  },
+  {
+    "id": "8f4b1724-4db6-4bdd-90fd-507e4630c217",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2059,
+    "y": 3265
+  },
+  {
+    "id": "5b7ed967-4be9-4334-852a-3bfe6bd834eb",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2323,
+    "y": 3089.5
+  },
+  {
+    "id": "86cbe782-91f9-4aa9-a07f-7eee72ff5671",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2812,
+    "y": 3764.5
+  },
+  {
+    "id": "4a61e218-3c21-4de7-ae6f-f008f843f6fc",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2776,
+    "y": 3621.5
+  },
+  {
+    "id": "7d8baa09-7ed1-4b4a-8ad4-1d42d6e5d3e4",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2937.5,
+    "y": 3480.5
+  },
+  {
+    "id": "ee4189ad-b781-4c71-9b1c-1c841fa274bc",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2524,
+    "y": 2954.5
+  },
+  {
+    "id": "8a0207ef-7f2b-452f-90e3-e540a18e878f",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2371,
+    "y": 2736
+  },
+  {
+    "id": "0a46bbb7-ed0f-4294-b9ea-4f11bbe1fa73",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1130,
+    "y": 3146.5
+  },
+  {
+    "id": "c6cc188b-fa66-4c93-813d-8ccd0f5910a5",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 927,
+    "y": 3119
+  },
+  {
+    "id": "24486ce8-eb23-4c5b-84f1-7a605ec13e19",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 798,
+    "y": 3156.5
+  },
+  {
+    "id": "4949864a-2647-49ab-89c5-38483c65565c",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 645.5,
+    "y": 3091
+  },
+  {
+    "id": "2ce7c9c6-a00a-4293-ba9c-bdcf79c8363e",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 715.5,
+    "y": 2466
+  },
+  {
+    "id": "8bcbe6df-e943-4188-9830-a6c70005e60c",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1220.5,
+    "y": 2478.5
+  },
+  {
+    "id": "b3ac56ce-6afd-49c5-bdfe-ba75909110a8",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 898.5,
+    "y": 2031
+  },
+  {
+    "id": "2d30b7dd-2254-4b51-9387-7682e3cc0f6a",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1519,
+    "y": 1572.5
+  },
+  {
+    "id": "b328ca1b-cad6-4901-aecd-95aaddca7179",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 1378.5,
+    "y": 1353
+  },
+  {
+    "id": "800b551b-8fc5-42c6-94f2-8e508bef0d09",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2238.5,
+    "y": 1049.5
+  },
+  {
+    "id": "478de3e1-f657-4d85-8987-44dec208ab3d",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2143,
+    "y": 1807
+  },
+  {
+    "id": "784d275a-0b60-4056-b714-00f91be8936e",
+    "name": "Кролики",
+    "desc": "",
+    "category": "rabbit",
+    "icon": "icons/rabbit_523493.png",
+    "x": 449.5,
+    "y": 2683
+  },
+  {
+    "id": "985724af-2d26-47fb-b5a4-6f0d33e697a7",
+    "name": "Руины",
+    "desc": "",
+    "category": "building",
+    "icon": "icons/building.png",
+    "x": 2961.5,
+    "y": 4267
+  },
+  {
+    "id": "d70caa70-e5fa-466e-a3ee-665a14112b98",
+    "name": "Руины",
+    "desc": "",
+    "category": "building",
+    "icon": "icons/building.png",
+    "x": 2387,
+    "y": 2913.5
+  },
+  {
+    "id": "7eb79948-2739-42e3-bfb2-af47f11959a6",
+    "name": "Руины",
+    "desc": "",
+    "category": "building",
+    "icon": "icons/building.png",
+    "x": 1227,
+    "y": 2757
+  },
+  {
+    "id": "dd3a2848-d1fe-427b-884b-72cc1b612a35",
+    "name": "Статуя собачки",
+    "desc": "Пополнение рассудка",
+    "category": "free-icon-puppy",
+    "icon": "icons/free-icon-puppy-1959967.png",
+    "x": 2412,
+    "y": 3963
+  },
+  {
+    "id": "372f0590-d56f-4877-8ef1-60dc6699384d",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 2418,
+    "y": 1244
+  },
+  {
+    "id": "10955774-0c94-4b1b-8abb-5850b4c89262",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 2256,
+    "y": 2823
+  },
+  {
+    "id": "5397a332-28e4-4944-b51b-1a29898d7e04",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 1414.5,
+    "y": 4229
+  },
+  {
+    "id": "c77c900e-929a-4e04-a09f-8cfbbc154580",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 1825,
+    "y": 3903
+  },
+  {
+    "id": "c5eed83a-8a3f-4dd2-b92e-0d61a0275272",
+    "name": "Олени",
+    "desc": "",
+    "category": "deer",
+    "icon": "icons/deer_9099080.png",
+    "x": 2270,
+    "y": 2435
+  },
+  {
+    "id": "f9ecce4c-8de6-4af8-af20-22a010a0fdbd",
+    "name": "Травы",
+    "desc": "",
+    "category": "free-icon-green-tea",
+    "icon": "icons/free-icon-green-tea-4264512.png",
+    "x": 2767,
+    "y": 2835
+  },
+  {
+    "id": "2b25ebe5-c85e-419a-9a4e-7e933f397fd5",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1731,
+    "y": 5002.75
+  },
+  {
+    "id": "7337ad1e-4557-488d-815a-43bc94addee4",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1961.25,
+    "y": 4792.5
+  },
+  {
+    "id": "0d6f1b4b-d8ac-4772-84c6-dd9aedbc00f1",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1563.5,
+    "y": 4578
+  },
+  {
+    "id": "f26db4f7-e7bb-4c9d-b0f6-097d8ac0909a",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1418,
+    "y": 4594
+  },
+  {
+    "id": "b95b9c8a-4442-4285-8998-1261a5c9258c",
+    "name": "Медицина",
+    "desc": "В туннеле",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 663.5,
+    "y": 3445
+  },
+  {
+    "id": "63dc8362-795d-4a0b-93c1-8b5d262f94ac",
+    "name": "Медицина",
+    "desc": "Ангар",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 845,
+    "y": 3457
+  },
+  {
+    "id": "b1ddc42d-39e3-412b-a99d-f4710b7fd95f",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 892,
+    "y": 3407.5
+  },
+  {
+    "id": "5d62c9f7-afbf-4e72-9f09-8b720a99d7f3",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2369.15,
+    "y": 3566.74
+  },
+  {
+    "id": "8caf562c-e346-41da-bf30-dd77105882f9",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2409.15,
+    "y": 3585.74
+  },
+  {
+    "id": "604b926a-6e64-4eee-8eab-f95cc95250cd",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2467.15,
+    "y": 3617.74
+  },
+  {
+    "id": "ffb584a8-3f13-4b09-8e88-4baa631e43cb",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2111.5,
+    "y": 3880
+  },
+  {
+    "id": "478756b1-e835-488c-bddc-68c52560ac9e",
+    "name": "Медицина",
+    "desc": "На пирсе",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 322,
+    "y": 2521
+  },
+  {
+    "id": "876410f9-130f-4706-8236-fc994554a734",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 508,
+    "y": 2303.5
+  },
+  {
+    "id": "a8acd5b0-6aa8-4379-9b5c-526527584913",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 519.75,
+    "y": 2136.25
+  },
+  {
+    "id": "b2c4faf6-1b28-4995-b19b-938bd2375af6",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 808,
+    "y": 2107
+  },
+  {
+    "id": "e3262b73-bd9e-4cbc-b86d-814abd7e26fd",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1661,
+    "y": 2055
+  },
+  {
+    "id": "124d09d4-c7fa-4f69-9732-69f23a4bfecd",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1619.5,
+    "y": 2001
+  },
+  {
+    "id": "7ea79f25-0ef0-4873-9a6e-13804f58050e",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1639.5,
+    "y": 1994.5
+  },
+  {
+    "id": "81af9c7f-2ceb-4a59-b1d3-5820d7c5b690",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1645.5,
+    "y": 2016.5
+  },
+  {
+    "id": "810f67ba-9190-451a-b95f-c74b647b1825",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1649,
+    "y": 1873
+  },
+  {
+    "id": "f8748336-2462-4237-a5d0-4edd9da76cd7",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1823.5,
+    "y": 1844.5
+  },
+  {
+    "id": "aa124a85-cf42-45e0-98d8-61a79f9c7edf",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1873,
+    "y": 1834.5
+  },
+  {
+    "id": "a6cf914d-333e-4cbc-95f3-cc9f99d36f61",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1896,
+    "y": 1832.5
+  },
+  {
+    "id": "99f6eafc-12b5-419c-afab-39572fe64ac7",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1913,
+    "y": 1805.5
+  },
+  {
+    "id": "e12257db-7d9b-43a6-a079-5faef40bacbf",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2184.5,
+    "y": 1946.5
+  },
+  {
+    "id": "67966719-d9ed-473e-b324-53c06fbd01e5",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2126,
+    "y": 1833.5
+  },
+  {
+    "id": "87a4b3e1-6331-4a0a-aa2c-e804607a113f",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2271,
+    "y": 1826.5
+  },
+  {
+    "id": "90b716e6-c3cc-428c-b4c9-1cbf89d4c392",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2208,
+    "y": 1523.5
+  },
+  {
+    "id": "2a5f0b5f-f4b7-468e-8ac7-98c787b57a1d",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2356,
+    "y": 1442
+  },
+  {
+    "id": "456d8c9f-64be-4fb6-a914-ae2569823544",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2365.5,
+    "y": 1414
+  },
+  {
+    "id": "709baaa0-0ffe-4ca2-8ca2-52daa5e9c4db",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1705,
+    "y": 1138.25
+  },
+  {
+    "id": "2e04f64e-f5ea-4cd3-a6d1-19d149e06971",
+    "name": "Медицина",
+    "desc": "Крыша",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2048.75,
+    "y": 1201.25
+  },
+  {
+    "id": "0ee19987-33e9-45a5-87b9-1e5f590abb2c",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2091.75,
+    "y": 1206.25
+  },
+  {
+    "id": "af8b39ba-7ecc-4d20-98f7-4a615d3e67a4",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1928.5,
+    "y": 910
+  },
+  {
+    "id": "0579b125-09d6-4cda-ad96-a88a81998b39",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1949,
+    "y": 855
+  },
+  {
+    "id": "aaccaa2b-d848-432b-81af-273e8ddbf97b",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1959.5,
+    "y": 861.5
+  },
+  {
+    "id": "29c2d27b-8b55-4e59-acf5-ba89ac2a4ffa",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2108,
+    "y": 811
+  },
+  {
+    "id": "8aa33eba-ce1a-4777-a22c-77ecfbfe131e",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2132.5,
+    "y": 826
+  },
+  {
+    "id": "6a272749-8d87-4d46-b765-72e869bf516d",
+    "name": "Медицина",
+    "desc": "Корабль",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2225.5,
+    "y": 903
+  },
+  {
+    "id": "10f2aa47-4cc5-4246-9c85-247f231547de",
+    "name": "Медицина",
+    "desc": "Корабль",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2098,
+    "y": 953
+  },
+  {
+    "id": "8320919f-2bde-46ef-a317-eb2488f247da",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2049.5,
+    "y": 909.5
+  },
+  {
+    "id": "d57f59de-944f-40c3-ba6f-5e8468790e21",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1350,
+    "y": 783
+  },
+  {
+    "id": "b0561162-3f6c-4136-9e28-65f0d0a66d2a",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1509,
+    "y": 1542
+  },
+  {
+    "id": "2463f752-b401-404a-926c-d65f81950d2b",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 1152,
+    "y": 1556.5
+  },
+  {
+    "id": "719d958c-9ab7-4aa2-9102-7477ada29d70",
+    "name": "Медицина",
+    "desc": "Пирс",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 968.5,
+    "y": 1628.5
+  },
+  {
+    "id": "53eae4a9-8613-48d1-9379-aa407689e7bd",
+    "name": "Медицина",
+    "desc": "Яхта",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 857.5,
+    "y": 1733
+  },
+  {
+    "id": "1bec08c8-4dfc-4042-adb7-2d4d6c5b7745",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2446,
+    "y": 2841
+  },
+  {
+    "id": "fd8cf086-2971-4ee1-97c4-761181622964",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2480.5,
+    "y": 2877.5
+  },
+  {
+    "id": "74b0ed3f-7d42-46ba-9d6f-a9b1bce0c289",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2819.5,
+    "y": 2798
+  },
+  {
+    "id": "9eec3f81-1116-4dce-9fbe-485e6fb4ea17",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2805.5,
+    "y": 2740.5
+  },
+  {
+    "id": "48b43e5a-7f1f-4f99-916a-98c35ec78d33",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2838,
+    "y": 2700.5
+  },
+  {
+    "id": "821f7136-8989-4959-8c61-181f7bd04c1a",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2870.5,
+    "y": 2706
+  },
+  {
+    "id": "dbb35748-f848-487a-a09b-eeda2de4d8e1",
+    "name": "Медицина",
+    "desc": "",
+    "category": "medicine",
+    "icon": "icons/medicine.png",
+    "x": 2854,
+    "y": 3840.5
+  },
+  {
+    "id": "c59ce4c5-24f3-4403-8049-52da5c7bee91",
+    "name": "Аномалия",
+    "desc": "Омут (затягивает)",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 2122.99,
+    "y": 4769.48
+  },
+  {
+    "id": "186e61be-23be-4d66-8aff-2fa91106e309",
+    "name": "Аномалия",
+    "desc": "Кошмар",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 2291,
+    "y": 4720
+  },
+  {
+    "id": "0a4844fa-3ca5-41f0-8927-147f505e6cfc",
+    "name": "Аномалия",
+    "desc": "",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 2360,
+    "y": 3654.5
+  },
+  {
+    "id": "d9d858b9-7036-47ed-a7d9-eb60ed70554e",
+    "name": "Аномалия",
+    "desc": "Кошмар",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1933,
+    "y": 3367.5
+  },
+  {
+    "id": "557c8ec5-b9bb-4bc3-b08f-9e1b905546f4",
+    "name": "Аномалия",
+    "desc": "Омут (затягивает)",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1537.5,
+    "y": 3334
+  },
+  {
+    "id": "b0c193cf-dab0-45dd-bfd6-d6f64734dec0",
+    "name": "Аномалия",
+    "desc": "Омут (затягивает)",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1814.5,
+    "y": 2671.5
+  },
+  {
+    "id": "a61e7488-5a92-41ed-bc35-67fe4236042f",
+    "name": "Аномалия",
+    "desc": "Кошмар",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 2298,
+    "y": 2768.5
+  },
+  {
+    "id": "1bb01675-b43a-48e9-9d05-3774c902636f",
+    "name": "Аномалия",
+    "desc": "Омут (затягивает)",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1532.5,
+    "y": 1784
+  },
+  {
+    "id": "e66ba070-9d1b-4887-a54c-eb30421374a3",
+    "name": "Аномалия",
+    "desc": "Омут (затягивает)",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1705,
+    "y": 1738.5
+  },
+  {
+    "id": "dc3e3b79-e17f-4805-acd0-2097a4251b3e",
+    "name": "Аномалия",
+    "desc": "Кошмар",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1862.5,
+    "y": 1735.5
+  },
+  {
+    "id": "ebb620da-9051-4732-8342-083e2f096c8b",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 1730,
+    "y": 1958
+  },
+  {
+    "id": "23a5a699-990e-4a7d-9ab0-dca48b64875f",
+    "name": "Рейдеры",
+    "desc": "",
+    "category": "criminal",
+    "icon": "icons/criminal.png",
+    "x": 1284,
+    "y": 987.5
+  },
+  {
+    "id": "9e6c9f02-0316-4431-950c-5af578fbabd9",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2411,
+    "y": 4138
+  },
+  {
+    "id": "be8f295c-8223-419f-9f9c-6dc3b0de7e4e",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 675,
+    "y": 3067
+  },
+  {
+    "id": "5a8af453-7737-4302-9cd1-a368fe09bb9d",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 983,
+    "y": 2454
+  },
+  {
+    "id": "bf8c5cd8-af33-4b75-8456-24987861367a",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 850,
+    "y": 1990
+  },
+  {
+    "id": "bf333eda-fc6f-49e0-a63b-24b39e4d40d0",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1130.5,
+    "y": 2012.5
+  },
+  {
+    "id": "b83cdb93-3bc0-47a4-9de2-90923fb61ef0",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1398.5,
+    "y": 1758
+  },
+  {
+    "id": "bd131080-ebd9-4991-9fb1-4bb50caa5ddb",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1693,
+    "y": 1405
+  },
+  {
+    "id": "146fa52b-6905-44d7-9e4e-a5adb8779d59",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1824.5,
+    "y": 1605.5
+  },
+  {
+    "id": "f8d70884-874a-406b-84cc-7d7fcd04a37e",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2049,
+    "y": 1697
+  },
+  {
+    "id": "1755966c-0ddd-4481-87ee-209c6da60945",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2211.5,
+    "y": 1552.5
+  },
+  {
+    "id": "1f879297-3ddf-4ecf-92d9-9b90dd574701",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2199,
+    "y": 1981.5
+  },
+  {
+    "id": "8e4d3ec3-c278-4bdd-88ac-401988960b97",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 2766.5,
+    "y": 2305
+  },
+  {
+    "id": "7861ede2-e8ee-481a-8a05-232f61325601",
+    "name": "Нефть",
+    "desc": "",
+    "category": "petroleum",
+    "icon": "icons/petroleum.png",
+    "x": 1974,
+    "y": 2229
+  },
+  {
+    "id": "1a327f5c-7e1e-4084-b0c1-00cde9c722b2",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 1391.5,
+    "y": 1742.5
+  },
+  {
+    "id": "336386d3-116e-495b-b72d-477c92f4cb43",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 1313,
+    "y": 2241
+  },
+  {
+    "id": "b3b7809a-5131-4734-bbda-41897437d300",
+    "name": "Вода",
+    "desc": "",
+    "category": "free-icon-water",
+    "icon": "icons/free-icon-water-7126715.png",
+    "x": 831.5,
+    "y": 3866.5
+  },
+  {
+    "id": "2c2d1f9b-6aa8-4e2b-b07e-d9aadf2a1d75",
+    "name": "Руда",
+    "desc": "",
+    "category": "ore",
+    "icon": "icons/ore.png",
+    "x": 2191,
+    "y": 1068
+  },
+  {
+    "id": "d7b5c536-85a6-46b4-8d82-ddc15fea2436",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1986,
+    "y": 1978
+  },
+  {
+    "id": "eee77f4a-4a8f-4c8b-836d-559998564c0a",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1566,
+    "y": 1898
+  },
+  {
+    "id": "66371258-3c99-4938-bd3b-c95f4629001f",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1386.5,
+    "y": 1824.5
+  },
+  {
+    "id": "68e31c5e-d18c-467c-a68a-4b25c0f7e336",
+    "name": "Гемохист",
+    "desc": "",
+    "category": "ginseng",
+    "icon": "icons/ginseng.png",
+    "x": 1165,
+    "y": 3166
+  },
+  {
+    "id": "bbccdf76-98ac-4661-91fd-c602e418b267",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1998,
+    "y": 2000
+  },
+  {
+    "id": "04d2e4ea-c4b0-47ca-9dc5-5919b97b3b41",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1947,
+    "y": 1552
+  },
+  {
+    "id": "0581256f-588d-48f0-8fdd-0cdd3816450f",
+    "name": "Шахта",
+    "desc": "",
+    "category": "gold-mine",
+    "icon": "icons/gold-mine(1).png",
+    "x": 1644.5,
+    "y": 1697.5
+  },
+  {
+    "id": "5d844909-9117-4880-8cc4-b0d328fdc79b",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1685.5,
+    "y": 4737
+  },
+  {
+    "id": "9abb905f-57cb-40d5-bbd6-efc9979d90d9",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2357,
+    "y": 4810.5
+  },
+  {
+    "id": "b611005c-1356-4b14-84bd-a5afbc478d30",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2887,
+    "y": 3881
+  },
+  {
+    "id": "27067311-c033-436b-9c50-a23dec3fbe17",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2623.12,
+    "y": 4548.15
+  },
+  {
+    "id": "bd960ab2-e776-470c-a821-2132b507d370",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 721,
+    "y": 3149
+  },
+  {
+    "id": "32b1f242-7685-451e-a7c6-68fe030a866f",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 980,
+    "y": 2447
+  },
+  {
+    "id": "4551a110-26e8-461f-8b1e-6ff721c979a6",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1058.5,
+    "y": 1998.5
+  },
+  {
+    "id": "ca0aa031-9f87-49f9-93c2-ae50b4bc07b4",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1327,
+    "y": 1974.5
+  },
+  {
+    "id": "39629d3f-74bf-4d57-861a-baecc5e6e480",
+    "name": "Шахта",
+    "desc": "",
+    "category": "gold-mine",
+    "icon": "icons/gold-mine(1).png",
+    "x": 1308.5,
+    "y": 2393.5
+  },
+  {
+    "id": "24a5f606-350b-4f3e-aae9-1db56df1158d",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1513,
+    "y": 2361
+  },
+  {
+    "id": "5d3b556a-eeab-4b2a-ad73-cd9628881bf0",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1469,
+    "y": 2202.5
+  },
+  {
+    "id": "983e65d0-2d00-4bf7-9bf9-134c47671f91",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 1808.75,
+    "y": 2078
+  },
+  {
+    "id": "e5be3610-01f5-4326-92ea-34c759aba92c",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2134,
+    "y": 2015.5
+  },
+  {
+    "id": "45f16d04-7cc1-481a-919c-e3cbd07c1c23",
+    "name": "Монстры",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/halloween.png",
+    "x": 2278.5,
+    "y": 1824
+  },
+  {
+    "id": "dd28bba6-49a5-47ac-ba15-eaba0d8743c6",
+    "name": "Хабы",
+    "desc": "",
+    "category": "hubs",
+    "icon": "icons/hub_animal.png",
+    "x": 2339.75,
+    "y": 2453.75
+  },
+  {
+    "id": "85f70177-70b2-473a-bcfe-0087a67a02ea",
+    "name": "Хабы",
+    "desc": "",
+    "category": "hubs",
+    "icon": "icons/hub_vampire.png",
+    "x": 1399.5,
+    "y": 1835
+  },
+  {
+    "id": "9ca0bfcf-8e95-46bb-a358-f0007da19921",
+    "name": "Хабы",
+    "desc": "",
+    "category": "hubs",
+    "icon": "icons/hub_werewolf.png",
+    "x": 1257.5,
+    "y": 4130.5
+  },
+  {
+    "id": "5d7adb4a-1b31-42ea-a367-5daacb6a9ab6",
+    "name": "Хабы",
+    "desc": "",
+    "category": "hubs",
+    "icon": "icons/hub_lizard.png",
+    "x": 3342,
+    "y": 2736
+  }
+]

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AD Map</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+        crossorigin="" />
+  <link rel="stylesheet" href="./style.css?v=2026-02-10-2" />
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar__header">
+        <div class="title">Карта</div>
+        <div class="subtitle">С помощью галочек можно отключить ненужные метки</div>
+      </div>
+
+      <div class="controls">
+        <input id="search" class="search" type="search" placeholder="Поиск (например: улей, руины)..." />
+        <div class="muted" id="stats">Загрузка…</div>
+
+        <div class="toggleBar">
+          <button id="clearCatsBtn" class="btn btn--ghost" type="button" title="Снять все галочки">Снять все</button>
+          <button id="checkCatsBtn" class="btn btn--ghost" type="button" title="Поставить все галочки">Поставить все</button>
+        </div>
+
+        <div class="adminBar" aria-label="admin tools">
+          <button id="adminToggle" class="btn" type="button" title="Включить/выключить админский режим">Админ</button>
+          <button id="addCategoryBtn" class="btn" type="button" title="Создать новую категорию/метку">+ Метка</button>
+          <button id="addPointBtn" class="btn" type="button" title="Добавить точку (клик по карте)">+ Точка</button>
+          <button id="exportBtn" class="btn" type="button" title="Скачать текущие точки в JSON">Экспорт</button>
+          <button id="resetLocalBtn" class="btn btn--ghost" type="button" title="Сбросить локальные правки (localStorage)">Сброс</button>
+        </div>
+      </div>
+
+      <div class="categories" id="categories"></div>
+
+      <div class="hint">
+        <div><b>Карта от j.jason и marysnowrose</b></div>
+        <div><b>По вопросам можете обратится в наши дискорды</b></div>
+      </div>
+    </aside>
+
+    <main class="mapWrap">
+      <div id="map"></div>
+      <div id="coordsHud">
+  <div><b>Cursor:</b> <span id="xyCursor">—</span></div>
+  <div><b>Click:</b> <span id="xyClick">—</span></div>
+  <button id="copyClickBtn" type="button">Copy Click</button>
+</div>
+    </main>
+  </div>
+
+  <div id="adminModal" class="modal" aria-hidden="true">
+    <div class="modal__backdrop" data-close></div>
+    <div class="modal__card" role="dialog" aria-modal="true" aria-labelledby="adminModalTitle">
+      <div class="modal__header">
+        <div id="adminModalTitle" class="modal__title">Редактор</div>
+        <button class="iconBtn" type="button" data-close aria-label="Закрыть">✕</button>
+      </div>
+      <div id="adminModalBody" class="modal__body"></div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+          crossorigin=""></script>
+  <script src="./app.js?v=2026-02-10-2"></script>
+</body>
+
+</html>

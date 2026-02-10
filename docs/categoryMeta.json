@@ -1,0 +1,116 @@
+{
+  "airdrop": {
+    "title": "Аирдроп"
+  },
+  "beehive": {
+    "title": "Мёдик"
+  },
+  "boar": {
+    "title": "Кабаны"
+  },
+  "building": {
+    "title": "Руины"
+  },
+  "bull-skull": {
+    "title": "Алтарь Белолапых"
+  },
+  "caterpillar": {
+    "title": "Червячки"
+  },
+  "coal": {
+    "title": "Уголь"
+  },
+  "corkboard": {
+    "title": "Доска объявлений"
+  },
+  "cranberry": {
+    "title": "Ягодки"
+  },
+  "criminal": {
+    "title": "Рейдеры"
+  },
+  "deer": {
+    "title": "Олени"
+  },
+  "fire": {
+    "title": "Огненная аномалия"
+  },
+  "free-icon-ammo": {
+    "title": "Патроны"
+  },
+  "free-icon-bear": {
+    "title": "Пещера Исмира"
+  },
+  "free-icon-bio-weapon": {
+    "title": "Аномалия"
+  },
+  "free-icon-bunker": {
+    "title": "Бункер"
+  },
+  "free-icon-capitol": {
+    "title": "Капитолий"
+  },
+  "free-icon-green-tea": {
+    "title": "Травы"
+  },
+  "free-icon-lotus-flower": {
+    "title": "Вербена"
+  },
+  "free-icon-puppy": {
+    "title": "Статуя собачки"
+  },
+  "free-icon-stump": {
+    "title": "Кора"
+  },
+  "free-icon-totem": {
+    "title": "Тотемы"
+  },
+  "free-icon-tower": {
+    "title": "Башни"
+  },
+  "free-icon-water": {
+    "title": "Вода"
+  },
+  "free-icon-wooden": {
+    "title": "Дерево"
+  },
+  "ginseng": {
+    "title": "Гемохист"
+  },
+  "gold-ingots": {
+    "title": "Литейка"
+  },
+  "gold-mine": {
+    "title": "Шахта"
+  },
+  "halloween": {
+    "title": "Монстры"
+  },
+  "medicine": {
+    "title": "Медицина"
+  },
+  "mushroom": {
+    "title": "Грибочки"
+  },
+  "ore": {
+    "title": "Руда"
+  },
+  "petroleum": {
+    "title": "Нефть"
+  },
+  "rabbit": {
+    "title": "Кролики"
+  },
+  "sewing-machine": {
+    "title": "Швейка"
+  },
+  "teleport": {
+    "title": "Аномалия телепорт"
+  },
+  "other": {
+    "title": "Прочее"
+  },
+  "hubs": {
+    "title": "Хабы"
+  }
+}
