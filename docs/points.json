@@ -5965,5 +5965,23 @@
     "icon": "icons/free-icon-ammo-3836821.png",
     "x": 436.5,
     "y": 2569.77
+  },
+  {
+    "id": "d61b47f0-98cb-44bf-b5ca-8a4f83a59568",
+    "name": "Статуя собачки",
+    "desc": "Пополнение рассудка",
+    "category": "free-icon-puppy",
+    "icon": "icons/free-icon-puppy-1959967.png",
+    "x": 1357.5,
+    "y": 1770.5
+  },
+  {
+    "id": "ba4c0ed1-946d-49bf-b852-7668d45f813a",
+    "name": "Грибочки",
+    "desc": "",
+    "category": "mushroom",
+    "icon": "icons/mushroom_9288694.png",
+    "x": 1963.88,
+    "y": 3430.5
   }
 ]
