@@ -2552,8 +2552,8 @@
     "desc": "Осторожно, гнильцы!",
     "category": "free-icon-stump",
     "icon": "icons/free-icon-stump-928799.png",
-    "x": 1855,
-    "y": 2453
+    "x": 1804,
+    "y": 2071
   },
   {
     "id": "3458764657856846685",
@@ -3902,8 +3902,8 @@
     "desc": "Омут (затягивает)",
     "category": "free-icon-bio-weapon",
     "icon": "icons/free-icon-bio-weapon-12517479.png",
-    "x": 1773,
-    "y": 3516
+    "x": 1776.25,
+    "y": 3514.25
   },
   {
     "id": "cc7524c6-c49a-4f40-b35a-44a06d98f7f4",
@@ -4577,8 +4577,8 @@
     "desc": "",
     "category": "free-icon-green-tea",
     "icon": "icons/free-icon-green-tea-4264512.png",
-    "x": 1474,
-    "y": 3270
+    "x": 1180,
+    "y": 3224
   },
   {
     "id": "90547eb1-318a-4328-9503-10890c71da6d",
@@ -5983,5 +5983,23 @@
     "icon": "icons/mushroom_9288694.png",
     "x": 1963.88,
     "y": 3430.5
+  },
+  {
+    "id": "2d34baac-5738-4d75-a839-a2cec22e60c8",
+    "name": "Аномалия",
+    "desc": "Звёздочки",
+    "category": "free-icon-bio-weapon",
+    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "x": 1747,
+    "y": 2055
+  },
+  {
+    "id": "76c2128a-9e76-4547-988d-d67d02d097e5",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1420.11,
+    "y": 2112.85
   }
 ]
