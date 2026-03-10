@@ -6001,5 +6001,32 @@
     "icon": "icons/free-icon-wooden-8555095.png",
     "x": 1420.11,
     "y": 2112.85
+  },
+  {
+    "id": "7e9cf013-779b-48ed-a7ec-4edcb641c7b2",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2605,
+    "y": 2677.75
+  },
+  {
+    "id": "d501076c-3277-46f6-8234-bb4b00e2e642",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 895,
+    "y": 2345.63
+  },
+  {
+    "id": "0f57426b-ff6f-4494-8358-6c0bd58c8b00",
+    "name": "Дерево",
+    "desc": "",
+    "category": "free-icon-wooden",
+    "icon": "icons/free-icon-wooden-8555095.png",
+    "x": 1753.38,
+    "y": 1940.63
   }
 ]
