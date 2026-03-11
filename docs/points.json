@@ -3578,8 +3578,8 @@
     "desc": "",
     "category": "free-icon-lotus-flower",
     "icon": "icons/free-icon-lotus-flower-7091498.png",
-    "x": 2199.5,
-    "y": 1073
+    "x": 2275.25,
+    "y": 1025.5
   },
   {
     "id": "3458764658201336234",
@@ -6028,5 +6028,14 @@
     "icon": "icons/free-icon-wooden-8555095.png",
     "x": 1753.38,
     "y": 1940.63
+  },
+  {
+    "id": "681474ae-5258-4c35-a434-ef4c8ca8bdcc",
+    "name": "Вербена",
+    "desc": "",
+    "category": "free-icon-lotus-flower",
+    "icon": "icons/free-icon-lotus-flower-7091498.png",
+    "x": 1901.5,
+    "y": 4409
   }
 ]
