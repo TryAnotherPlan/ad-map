@@ -158,8 +158,8 @@
     "desc": "",
     "category": "cranberry",
     "icon": "icons/cranberry_13460939.png",
-    "x": 2541.51,
-    "y": 2543.09
+    "x": 2525,
+    "y": 2483
   },
   {
     "id": "3458764615186700623",
@@ -482,8 +482,8 @@
     "desc": "",
     "category": "cranberry",
     "icon": "icons/cranberry_13460939.png",
-    "x": 1774,
-    "y": 3230.5
+    "x": 1776,
+    "y": 3231
   },
   {
     "id": "3458764615186700736",
@@ -662,8 +662,8 @@
     "desc": "",
     "category": "cranberry",
     "icon": "icons/cranberry_13460939.png",
-    "x": 2506.55,
-    "y": 2256.96
+    "x": 2373,
+    "y": 2518
   },
   {
     "id": "3458764642061607447",
@@ -835,24 +835,6 @@
     "icon": "icons/halloween.png",
     "x": 1436,
     "y": 1879
-  },
-  {
-    "id": "3458764642083757601",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2671.62,
-    "y": 2267.17
-  },
-  {
-    "id": "3458764642083757738",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2612.87,
-    "y": 1993.5
   },
   {
     "id": "3458764642083819929",
@@ -1076,17 +1058,8 @@
     "desc": "",
     "category": "cranberry",
     "icon": "icons/cranberry_13460939.png",
-    "x": 2404.97,
-    "y": 2167.89
-  },
-  {
-    "id": "3458764653281434544",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2014.49,
-    "y": 2157.27
+    "x": 2289,
+    "y": 2459
   },
   {
     "id": "3458764653281503119",
@@ -1121,8 +1094,8 @@
     "desc": "",
     "category": "cranberry",
     "icon": "icons/cranberry_13460939.png",
-    "x": 3071.11,
-    "y": 3133.74
+    "x": 2766,
+    "y": 3261
   },
   {
     "id": "3458764653281503905",
@@ -1132,15 +1105,6 @@
     "icon": "icons/cranberry_13460939.png",
     "x": 2357.5,
     "y": 3294
-  },
-  {
-    "id": "3458764653281576013",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 1923.65,
-    "y": 3074.84
   },
   {
     "id": "3458764653281781159",
@@ -1602,15 +1566,6 @@
     "y": 3940.5
   },
   {
-    "id": "3458764657856846330",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2541.99,
-    "y": 2544.81
-  },
-  {
     "id": "3458764657856846331",
     "name": "Ягодки",
     "desc": "",
@@ -1656,33 +1611,6 @@
     "y": 3662.81
   },
   {
-    "id": "3458764657856846338",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2505.84,
-    "y": 2259.83
-  },
-  {
-    "id": "3458764657856846339",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2672.21,
-    "y": 2268.66
-  },
-  {
-    "id": "3458764657856846340",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2613.56,
-    "y": 1994.82
-  },
-  {
     "id": "3458764657856846341",
     "name": "Ягодки",
     "desc": "",
@@ -1690,15 +1618,6 @@
     "icon": "icons/cranberry_13460939.png",
     "x": 2493.5,
     "y": 1791.5
-  },
-  {
-    "id": "3458764657856846342",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2492.62,
-    "y": 1221.44
   },
   {
     "id": "3458764657856846343",
@@ -1726,24 +1645,6 @@
     "icon": "icons/cranberry_13460939.png",
     "x": 2795,
     "y": 2950
-  },
-  {
-    "id": "3458764657856846349",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2405.52,
-    "y": 2169.46
-  },
-  {
-    "id": "3458764657856846350",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 2014.93,
-    "y": 2159.01
   },
   {
     "id": "3458764657856846351",
@@ -1780,15 +1681,6 @@
     "icon": "icons/cranberry_13460939.png",
     "x": 2741.74,
     "y": 2799.57
-  },
-  {
-    "id": "3458764657856846356",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 3071.58,
-    "y": 3135.57
   },
   {
     "id": "3458764657856846358",
