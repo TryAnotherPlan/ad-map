@@ -940,7 +940,7 @@
     "name": "Аномалия",
     "desc": "Омут (затягивает)",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/omut.png",
     "x": 1834,
     "y": 3201
   },
@@ -1663,15 +1663,6 @@
     "icon": "icons/cranberry_13460939.png",
     "x": 2467.89,
     "y": 1298.44
-  },
-  {
-    "id": "3458764657856846354",
-    "name": "Ягодки",
-    "desc": "",
-    "category": "cranberry",
-    "icon": "icons/cranberry_13460939.png",
-    "x": 3058.88,
-    "y": 2771.99
   },
   {
     "id": "3458764657856846355",
@@ -3757,7 +3748,7 @@
     "name": "Аномалия",
     "desc": "Звёздочки",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/star.png",
     "x": 1649.88,
     "y": 3853.75
   },
@@ -3793,7 +3784,7 @@
     "name": "Аномалия",
     "desc": "Омут (затягивает)",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/omut.png",
     "x": 1776.25,
     "y": 3514.25
   },
@@ -3802,7 +3793,7 @@
     "name": "Аномалия",
     "desc": "Звёздочки",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/star.png",
     "x": 1506,
     "y": 3932
   },
@@ -3811,7 +3802,7 @@
     "name": "Аномалия",
     "desc": "Омут (Затягивает)",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/omut.png",
     "x": 1047,
     "y": 2540
   },
@@ -5242,7 +5233,7 @@
     "name": "Аномалия",
     "desc": "Омут (затягивает)",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/omut.png",
     "x": 2122.99,
     "y": 4769.48
   },
@@ -5287,7 +5278,7 @@
     "name": "Аномалия",
     "desc": "Омут (затягивает)",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/omut.png",
     "x": 1814.5,
     "y": 2671.5
   },
@@ -5305,7 +5296,7 @@
     "name": "Аномалия",
     "desc": "Омут (затягивает)",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/omut.png",
     "x": 1532.5,
     "y": 1784
   },
@@ -5314,7 +5305,7 @@
     "name": "Аномалия",
     "desc": "Омут (затягивает)",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/omut.png",
     "x": 1705,
     "y": 1738.5
   },
@@ -5881,7 +5872,7 @@
     "name": "Аномалия",
     "desc": "Звёздочки",
     "category": "free-icon-bio-weapon",
-    "icon": "icons/free-icon-bio-weapon-12517479.png",
+    "icon": "icons/star.png",
     "x": 1747,
     "y": 2055
   },
