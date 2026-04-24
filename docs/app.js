@@ -209,9 +209,9 @@ function getLeafletIcon(iconPath) {
 
   const icon = L.icon({
     iconUrl: iconPath,
-    iconSize: [52, 52],
-    iconAnchor: [26, 26],
-    popupAnchor: [0, -24]
+    iconSize: [39, 39],
+    iconAnchor: [20, 20],
+    popupAnchor: [0, -18]
   });
 
   iconCache.set(iconPath, icon);
