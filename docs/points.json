@@ -5920,5 +5920,14 @@
     "icon": "icons/free-icon-lotus-flower-7091498.png",
     "x": 1901.5,
     "y": 4409
+  },
+  {
+    "id": "c5dbdee2-4d2b-4908-b2e6-a3e0cf8860d2",
+    "name": "Мёдик",
+    "desc": "",
+    "category": "beehive",
+    "icon": "icons/beehive.png",
+    "x": 2693.5,
+    "y": 3485.25
   }
 ]
