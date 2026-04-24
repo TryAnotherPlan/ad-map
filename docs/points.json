@@ -5929,5 +5929,23 @@
     "icon": "icons/beehive.png",
     "x": 2693.5,
     "y": 3485.25
+  },
+  {
+    "id": "d30de1a1-d12d-49fd-b1e9-9118c99309d8",
+    "name": "Взрывные мутанты",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/boom.png",
+    "x": 1815.5,
+    "y": 3497.5
+  },
+  {
+    "id": "c90a283d-5df3-4156-ac7d-792c42f5e949",
+    "name": "Взрывные мутанты",
+    "desc": "",
+    "category": "halloween",
+    "icon": "icons/boom.png",
+    "x": 1792.5,
+    "y": 1787.5
   }
 ]
